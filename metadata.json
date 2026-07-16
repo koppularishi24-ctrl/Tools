@@ -1,0 +1,6 @@
+{
+  "name": "Smart Date Calculator",
+  "description": "Premium date calculator and bank statement analyzer with AI-powered extraction, leave management, and minimalist glassmorphism interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
